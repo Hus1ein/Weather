@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485366874 source:c:\users\nexilas\documents\projekat uup\projekat\main.cpp
+	<iostream>
+	<curl.h>
+	<fstream>
+	<string.h>
+	<iomanip>
+
+1485366874 source:d:\c++\projekat\main.cpp
+	<iostream>
+	<curl.h>
+	<fstream>
+	<string.h>
+	<iomanip>
+
